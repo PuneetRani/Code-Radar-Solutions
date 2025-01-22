@@ -4,5 +4,5 @@ int main()
    printf("enter a number")
    scanf("%f",&number);
    printf("%f",number)
-
+return 0;
 }
