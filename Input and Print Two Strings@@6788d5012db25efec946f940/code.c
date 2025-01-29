@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    char a[100],b[100];
+    char a[50],b[50];
     scanf("%s %s",&a,&b);
     printf("You entered: %2.s",a ,b);
     return 0;
