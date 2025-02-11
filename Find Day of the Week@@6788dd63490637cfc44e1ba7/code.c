@@ -17,9 +17,8 @@ int main(){
     else if(a==5){
         printf("Friday");
     }
-    else id(a==6){
+    else if(a==6){
         printf("Saturday");
     }
     return 0;
-
 }
