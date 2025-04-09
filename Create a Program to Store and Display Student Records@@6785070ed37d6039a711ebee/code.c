@@ -13,8 +13,12 @@ int main(){
         struct student students[n];
 
         for(int i=0;i<=n;i++){
-            printf("Roll Number: %d, Name: %s, Marks: %d",&rollnumber,&name,&marks);
-            scanf("%d %c %d",&Roll Number,&Name,&Marks);
+            printf("Roll Number: %d",&rollnumber);
+            scanf("%d",&roll Number);
+            printf("Name: %s",&name);
+            scanf("%s",&rollnumber);
+            printf("Marks: &f",&marks);
+            scanf("%f",&marks);
         }
         for (int i = 0; i < n; i++) {
         printf("Roll Number: %d\n", students[i].rollnumber);
